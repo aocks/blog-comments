@@ -1,0 +1,3 @@
+GitHub Repo used to host comments for blog.
+
+See https://www.aocks.com/posts/blog-comments-via-github-and-utterances/
